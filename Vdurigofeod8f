@@ -181,6 +181,8 @@ open.BorderSizePixel = 0
 open.Position = UDim2.new(0.4557916224002838, 0, 0.018518516793847084, 0)
 open.Size = UDim2.new(0, 45, 0, 45)
 open.Image = "rbxassetid://15919949513"
+open.Active = true
+open.Draggable = true
 
 MAIN.Name = "MAIN"
 MAIN.Parent = EVONUI
